@@ -1,0 +1,12 @@
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\bin\Release\net6.0\Sebrae.Domain.deps.json
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\bin\Release\net6.0\Sebrae.Domain.dll
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\bin\Release\net6.0\Sebrae.Domain.pdb
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\obj\Release\net6.0\Sebrae.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\obj\Release\net6.0\Sebrae.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\obj\Release\net6.0\Sebrae.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\obj\Release\net6.0\Sebrae.Domain.AssemblyInfo.cs
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\obj\Release\net6.0\Sebrae.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\obj\Release\net6.0\Sebrae.Domain.dll
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\obj\Release\net6.0\refint\Sebrae.Domain.dll
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\obj\Release\net6.0\Sebrae.Domain.pdb
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Domain\obj\Release\net6.0\ref\Sebrae.Domain.dll

@@ -1,0 +1,15 @@
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\bin\Debug\net6.0\Sebrae.Repository.deps.json
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\bin\Debug\net6.0\Sebrae.Repository.dll
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\bin\Debug\net6.0\Sebrae.Repository.pdb
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\bin\Debug\net6.0\Sebrae.Domain.dll
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\bin\Debug\net6.0\Sebrae.Domain.pdb
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\obj\Debug\net6.0\Sebrae.Repository.csproj.AssemblyReference.cache
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\obj\Debug\net6.0\Sebrae.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\obj\Debug\net6.0\Sebrae.Repository.AssemblyInfoInputs.cache
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\obj\Debug\net6.0\Sebrae.Repository.AssemblyInfo.cs
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\obj\Debug\net6.0\Sebrae.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\obj\Debug\net6.0\Sebrae.Repository.csproj.CopyComplete
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\obj\Debug\net6.0\Sebrae.Repository.dll
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\obj\Debug\net6.0\refint\Sebrae.Repository.dll
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\obj\Debug\net6.0\Sebrae.Repository.pdb
+C:\Projetos\Testes\Sebrae\Sebrae\Sebrae.Repository\obj\Debug\net6.0\ref\Sebrae.Repository.dll

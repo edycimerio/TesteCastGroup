@@ -1,0 +1,9 @@
+﻿@model Sebrae.Web.Models.ContaModel
+
+@{
+    ViewData["Title"] = "DeleteConta";
+    
+}
+<form asp-action="DeleteConta" method="post">
+    <input type="hidden" value="@Model.Id" name="Id" />     
+</form>

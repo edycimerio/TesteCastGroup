@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Sebrae.Web.Models.ContaModel>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddConta">Nova Conta</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+                
+                <td>
+                    @Html.ActionLink("Editar", "UpdateConta", new {  id=item.Id }) |
+                    @Html.ActionLink("Excluir", "DeleteConta", new { id=item.Id }, new{onclick="return confirm('Deseja apagar essa Conta?')"})
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
